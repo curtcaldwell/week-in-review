@@ -1,0 +1,12 @@
+.right{
+  float: right;
+}
+.left{
+  float: left;
+}
+p {
+  color: red;
+}
+img {
+ width: 100px;
+}
